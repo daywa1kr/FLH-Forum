@@ -1,0 +1,547 @@
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/appsettings.Development.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/appsettings.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/FirstCoreSolution.staticwebassets.runtime.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/FirstCoreSolution
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/FirstCoreSolution.deps.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/FirstCoreSolution.runtimeconfig.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/FirstCoreSolution.dll
+/home/tarek/Desktop/web/asp/FirstCoreSolution/bin/Debug/net6.0/FirstCoreSolution.pdb
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.csproj.AssemblyReference.cache
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.AssemblyInfoInputs.cache
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.AssemblyInfo.cs
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.csproj.CoreCompileInputs.cache
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.RazorAssemblyInfo.cache
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.RazorAssemblyInfo.cs
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/staticwebassets.build.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/staticwebassets.development.json
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/scopedcss/bundle/FirstCoreSolution.styles.css
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/scopedcss/projectbundle/FirstCoreSolution.bundle.scp.css
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.dll
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/refint/FirstCoreSolution.dll
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.pdb
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/FirstCoreSolution.genruntimeconfig.cache
+/home/tarek/Desktop/web/asp/FirstCoreSolution/obj/Debug/net6.0/ref/FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.staticwebassets.runtime.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.exe
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.deps.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.runtimeconfig.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.AssemblyReference.cache
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfoInputs.cache
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfo.cs
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cache
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cs
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\scopedcss\bundle\FirstCoreSolution.styles.css
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreSolution.bundle.scp.css
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\refint\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.genruntimeconfig.cache
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\ref\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CopyComplete
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.staticwebassets.runtime.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.exe
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.deps.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.runtimeconfig.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.AssemblyReference.cache
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfoInputs.cache
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfo.cs
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cache
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cs
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\bundle\FirstCoreSolution.styles.css
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreSolution.bundle.scp.css
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CopyComplete
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\refint\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.genruntimeconfig.cache
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\obj\Debug\net6.0\ref\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lilit\Desktop\lab10_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.staticwebassets.runtime.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.exe
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.deps.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.runtimeconfig.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.AssemblyReference.cache
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfoInputs.cache
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfo.cs
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cache
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cs
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\scopedcss\bundle\FirstCoreSolution.styles.css
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreSolution.bundle.scp.css
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CopyComplete
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\refint\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.genruntimeconfig.cache
+C:\Users\Lilit\Desktop\testing\FirstCoreSolution\obj\Debug\net6.0\ref\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.staticwebassets.runtime.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.exe
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.deps.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.runtimeconfig.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.AssemblyReference.cache
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfoInputs.cache
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfo.cs
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cache
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cs
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\bundle\FirstCoreSolution.styles.css
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreSolution.bundle.scp.css
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CopyComplete
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\refint\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.genruntimeconfig.cache
+C:\Users\Lilit\Desktop\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\ref\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.staticwebassets.runtime.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.exe
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.deps.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.runtimeconfig.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.AssemblyReference.cache
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfoInputs.cache
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfo.cs
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cache
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cs
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\bundle\FirstCoreSolution.styles.css
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreSolution.bundle.scp.css
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CopyComplete
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\refint\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.genruntimeconfig.cache
+C:\Users\Lilit\Desktop\FLH-Forum\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\ref\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.staticwebassets.runtime.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.exe
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.deps.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.runtimeconfig.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.AssemblyReference.cache
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfoInputs.cache
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.AssemblyInfo.cs
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cache
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.RazorAssemblyInfo.cs
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\bundle\FirstCoreSolution.styles.css
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreSolution.bundle.scp.css
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.csproj.CopyComplete
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\refint\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.pdb
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\FirstCoreSolution.genruntimeconfig.cache
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\obj\Debug\net6.0\ref\FirstCoreSolution.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lilit\Desktop\FLH-Forum - Copy (2)\asst4_lam36\FirstCoreSolution\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
