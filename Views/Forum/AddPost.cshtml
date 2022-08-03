@@ -1,0 +1,33 @@
+@model FirstCoreSolution.Models.Post
+
+<h3>What's on your mind?</h3>
+
+<form method="post" asp-controller="Forum" asp-action="AddPost" id="addPost">
+    <div class="form-group my-3">
+        <label for="Heading" class="mb-1">Heading</label>
+        <input type="text" asp-for="Heading" class="form-control" placeholder="How to start trading" id="Heading">
+    </div>
+    <div class="form-group my-3">
+        <label for="Body" class="mb-1">Body</label>
+        <textarea type="text" asp-for="Body" class="form-control" id="Body"></textarea>
+    </div>
+    <div>
+        <h5 class="ms-3">Rules</h5>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        <p class="ms-md-4"><i class="fas fa-exclamation mx-2"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, placeat.</p>
+        
+        <input type="checkbox" id="check" class="ms-2"/><label for="check" class="ms-2">I have read and understood the rules and my post does not violate them.</label>
+    </div>
+    <div asp-validation-summery="All" class="text-danger fw-bold h6 mx-3 my-3">@ViewBag.ErrorMessage</div>
+    <div class="my-2">
+        <button type="submit" class="btn btn-primary me-3" id="submit" disabled>Post Question</button>
+        <a asp-controller="Forum" asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+
+</form>
+

@@ -1,0 +1,42 @@
+@model FirstCoreSolution.Models.Post
+
+<div class="d-flex m-2 p-3">
+    <div class="mx-3 text-center">
+        <a asp-controller="Forum" asp-action="UpvoteInView" asp-route-id="@Model.Id" class="h4 m-0"><i class="fa fa-caret-up fw-bold"></i></a>
+        <p class="mb-0">@Model.Rating</p>
+        <a asp-controller="Forum" asp-action="DownvoteInView" asp-route-id="@Model.Id" class="h4 m-0"><i class="fa fa-caret-down fw-bold"></i></a>
+    </div>
+    <div class="ms-2">
+        <a asp-controller="Forum" asp-action="ViewPost" asp-route-id="@Model.Id"><h3>@Model.Heading</h3></a>
+        <p>@Model.Body</p>
+        <p class="fw-bold">@Model.Date</p>
+    </div>
+</div>
+
+<div class="ms-5">
+    @foreach(Answer p in @Model.Answers){
+        <div class="d-flex m-2 p-3 border-top">
+            <div class="mx-3 text-center">
+                <a asp-controller="Forum" asp-action="UpvoteAnswer" asp-route-id="@p.Id" class="h4 m-0"><i class="fa fa-caret-up fw-bold"></i></a>
+                <p class="mb-0">@p.Rating</p>
+                <a asp-controller="Forum" asp-action="DownvoteAnswer" asp-route-id="@p.Id" class="h4 m-0"><i class="fa fa-caret-down fw-bold"></i></a>
+            </div>
+            <div class="mt-2">
+                <p class="text-start">@p.Body</p>
+                <p class="fw-bold date text-start me-3">@p.Date</p>
+            </div>
+        </div>
+    }
+    <div  class="ms-5 mt-3">
+        <form method="post" asp-controller="Forum" asp-action="AddAnswer" asp-route-id="@Model.Id">
+            <label for="answer" class="h5">Your answer: </label>
+            <div id="answer">
+                @Html.TextArea("text",  new { @class = "form-control my-4 me-3"})
+            </div>
+            <button type="submit" class="btn btn-primary">Post</button>
+            <button type="reset" class="btn btn-secondary">Clear</button>
+        </form>
+    </div>
+    
+</div>
+
